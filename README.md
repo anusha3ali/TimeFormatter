@@ -33,7 +33,7 @@ By utilizing these patterns, the project is designed to be more modular, maintai
 
   `` TimeFormatterUtil.TO_MINUTES.format(milliseconds) ``
     
-    `` TimeFormatterUtil.TO_HOURS.format(milliseconds) ``
+  `` TimeFormatterUtil.TO_HOURS.format(milliseconds) ``
  
  `` TimeFormatterUtil.TO_HOURS.format(milliseconds).removeZeroUnits().toString() ``
  
