@@ -32,9 +32,12 @@ By utilizing these patterns, the project is designed to be more modular, maintai
 `` TimeFormatterUtil.TO_SECONDS.format(milliseconds) ``
 
   `` TimeFormatterUtil.TO_MINUTES.format(milliseconds) ``
+    
     `` TimeFormatterUtil.TO_HOURS.format(milliseconds) ``
-  `` TimeFormatterUtil.TO_HOURS.format(milliseconds).removeZeroUnits().toString() ``
-    `` TimeFormatterUtil.TO_HOURS.format(milliseconds).toShortForm().toString() ``
+ 
+ `` TimeFormatterUtil.TO_HOURS.format(milliseconds).removeZeroUnits().toString() ``
+ 
+ `` TimeFormatterUtil.TO_HOURS.format(milliseconds).toShortForm().toString() ``
 
 This code also provides functionalities to convert time string to short form after removing zero units. 
 ``                TimeFormatterUtil.TO_HOURS.format(milliseconds).removeZeroUnits().toShortForm().toString());``
