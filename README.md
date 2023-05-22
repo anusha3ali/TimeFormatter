@@ -27,16 +27,13 @@ By utilizing these patterns, the project is designed to be more modular, maintai
 * With chain of responsibility, if we need to add support for formatting time in days or weeks, we can simply create a new UnitBuilder class for days or weeks and add it to the chain of responsibility. Other formatter classes will not need to be modified, and the new functionality will seamlessly integrate with the existing code.
 * The FormattedTime class in TimeFormatterUtil provides a way to extend the functionality of the TimeFormatterUtil without modifying the existing code. By encapsulating the formatted string in a separate class, we can add new methods to manipulate the formatted time without affecting the existing functionality of TimeFormatterUtil. For example, if we want to add a method to remove leading zeroes from the formatted string, we can simply add a method to the FormattedTime class, and the users of TimeFormatterUtil can use this method without modifying their code. This makes the TimeFormatterUtil more extensible and easier to maintain over time.
 
-## Function Calls as per Assignment Tasks:
-* Task 1:
+## Function Calls:
+
 `` TimeFormatterUtil.TO_SECONDS.format(milliseconds) ``
-* Task 2:
+
   `` TimeFormatterUtil.TO_MINUTES.format(milliseconds) ``
-* Task 3:
     `` TimeFormatterUtil.TO_HOURS.format(milliseconds) ``
-* Task 4:
   `` TimeFormatterUtil.TO_HOURS.format(milliseconds).removeZeroUnits().toString() ``
-* Task 5:
     `` TimeFormatterUtil.TO_HOURS.format(milliseconds).toShortForm().toString() ``
 
 This code also provides functionalities to convert time string to short form after removing zero units. 
