@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5062a66c-5876-4450-a380-941dbdaf387b" name="Changes" comment="Fixed: moving readMe to main folder">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/rabobank/app/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/utility/app/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/rabobank/stringutils/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/utility/stringutils/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/rabobank/stringutils/StringFormatter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/utility/stringutils/StringFormatter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/rabobank/timeformatter/HoursFormatter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/utility/timeformatter/HoursFormatter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/rabobank/timeformatter/MinutesFormatter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/utility/timeformatter/MinutesFormatter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/rabobank/timeformatter/SecondsFormatter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/utility/timeformatter/SecondsFormatter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/rabobank/timeformatter/TimeFormatter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/utility/timeformatter/TimeFormatter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/rabobank/timeunitbuilder/HoursBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/utility/timeunitbuilder/HoursBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/rabobank/timeunitbuilder/MinutesBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/utility/timeunitbuilder/MinutesBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/rabobank/timeunitbuilder/SecondsBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/utility/timeunitbuilder/SecondsBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/rabobank/timeunitbuilder/UnitBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/utility/timeunitbuilder/UnitBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/rabobank/timeutils/TimeFormatterUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/utility/timeutils/TimeFormatterUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/rabobank/timeformatter/HoursFormatterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/utility/timeformatter/HoursFormatterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/rabobank/timeformatter/MinutesFormatterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/utility/timeformatter/MinutesFormatterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/rabobank/timeformatter/SecondsFormatterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/utility/timeformatter/SecondsFormatterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/rabobank/timeunitbuilder/HoursBuilderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/utility/timeunitbuilder/HoursBuilderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/rabobank/timeunitbuilder/MinutesBuilderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/utility/timeunitbuilder/MinutesBuilderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/rabobank/timeunitbuilder/SecondsBuilderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/utility/timeunitbuilder/SecondsBuilderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/rabobank/timeutils/TimeFormatterUtilTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/utility/timeutils/TimeFormatterUtilTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2PUYBIkXfl9dKuw3y6TaTn0Mq3x" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/DELL/Downloads/TimeUnitFormatterWithDesignPatterns/TimeUnitFormatterWithDesignPatterns&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Problems&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Rabobank\TimeFormatter" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="org.rabobank.timeformatter" />
+      <recent name="org.rabobank.timeutils" />
+      <recent name="org.rabobank.timeformatters" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.rabobank.timeunitbuilder" />
+      <recent name="org.rabobank.timeformatter" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.SecondsBuilderTest">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.utility.app.Main" />
+      <module name="TimeFormatter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.utility.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HoursFormatterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TimeFormatter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.utility.timeformatter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.rabobank.timeformatter" />
+      <option name="MAIN_CLASS_NAME" value="org.utility.timeformatter.HoursFormatterTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MinutesBuilderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TimeFormatter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.utility.timeunitbuilder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.rabobank.timeunitbuilder" />
+      <option name="MAIN_CLASS_NAME" value="org.utility.timeunitbuilder.MinutesBuilderTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SecondsBuilderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TimeFormatter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.utility.timeunitbuilder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.rabobank.timeunitbuilder" />
+      <option name="MAIN_CLASS_NAME" value="org.utility.timeunitbuilder.SecondsBuilderTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TimeFormatterUtilTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TimeFormatter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.utility.timeutils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.rabobank.timeutils" />
+      <option name="MAIN_CLASS_NAME" value="org.utility.timeutils.TimeFormatterUtilTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SecondsBuilderTest" />
+        <item itemvalue="JUnit.MinutesBuilderTest" />
+        <item itemvalue="JUnit.TimeFormatterUtilTest" />
+        <item itemvalue="JUnit.HoursFormatterTest" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5062a66c-5876-4450-a380-941dbdaf387b" name="Changes" comment="" />
+      <created>1683512993240</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683512993240</updated>
+      <workItem from="1683512994503" duration="9856000" />
+      <workItem from="1683543339133" duration="11522000" />
+      <workItem from="1684757026779" duration="401000" />
+    </task>
+    <task id="LOCAL-00001" summary="Task 1: Convert milliseconds to seconds string. &#10;In this commit, I created a builder package which basically builds the formatted string. This builder is decoupled from the other formatting classes. TimeFormatterUtil decides on the basis of calling enum that which formatter will be used. For example, TimeFormatterUtil.TO_SECONDS.format will convert milliseconds to seconds string.">
+      <created>1683517244537</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683517244537</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Refactored Code for Task 2: Convert milliseconds to minutes and seconds string. &#10;In this commit, I implemented a new minutes builder and formatter class. MinutesFormatter class uses chain of responsibility design pattern to convert remaining milliseconds to seconds. New enum of TO_MINUTES was added in TimeFormatterUtil. For example, TimeFormatterUtil.TO_MINUTES.format will convert milliseconds to minutes and seconds string.">
+      <created>1683518999066</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1683518999066</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Refactored Code for Task 3: Convert milliseconds to hours, minutes and seconds string. &#10;In this commit, I implemented a new hours builder and formatter class. HoursFormatter class uses chain of responsibility design pattern to convert remaining milliseconds to minutes and seconds. New enum of TO_HOURS was added in TimeFormatterUtil. For example, TimeFormatterUtil.TO_HOURS.formatTime() will convert milliseconds to hours, minutes and seconds string.">
+      <created>1683520603936</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1683520603936</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Refactored Code for Task 4: Show/hide zero units from formatted string. &#10;In this commit, I added a new method to the TimeFormatterUtil enum to remove zero-valued units from the formatted time string. Also added corresponding JUnit tests for this new functionality.">
+      <created>1683521852982</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1683521852982</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Refactored Code for Task 5: Show output in two different formats. &#10;In this commit, I added a new method to the TimeFormatterUtil enum to convert string to short form. Also added corresponding JUnit tests for this new functionality.">
+      <created>1683522302648</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1683522302648</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Formatted code, Main and ReadMe.">
+      <created>1683549467164</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1683549467165</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Fixed: moving readMe to main folder">
+      <created>1683551090429</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1683551090429</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Task 1: Convert milliseconds to seconds string. &#10;In this commit, I created a builder package which basically builds the formatted string. This builder is decoupled from the other formatting classes. TimeFormatterUtil decides on the basis of calling enum that which formatter will be used. For example, TimeFormatterUtil.TO_SECONDS.format will convert milliseconds to seconds string." />
+    <MESSAGE value="Refactored Code for Task 2: Convert milliseconds to minutes and seconds string. &#10;In this commit, I implemented a new minutes builder and formatter class. MinutesFormatter class uses chain of responsibility design pattern to convert remaining milliseconds to seconds. New enum of TO_MINUTES was added in TimeFormatterUtil. For example, TimeFormatterUtil.TO_MINUTES.format will convert milliseconds to minutes and seconds string." />
+    <MESSAGE value="Refactored Code for Task 3: Convert milliseconds to hours, minutes and seconds string. &#10;In this commit, I implemented a new hours builder and formatter class. HoursFormatter class uses chain of responsibility design pattern to convert remaining milliseconds to minutes and seconds. New enum of TO_HOURS was added in TimeFormatterUtil. For example, TimeFormatterUtil.TO_HOURS.formatTime() will convert milliseconds to hours, minutes and seconds string." />
+    <MESSAGE value="Refactored Code for Task 4: Show/hide zero units from formatted string. &#10;In this commit, I added a new method to the TimeFormatterUtil enum to remove zero-valued units from the formatted time string. Also added corresponding JUnit tests for this new functionality." />
+    <MESSAGE value="Refactored Code for Task 5: Show output in two different formats. &#10;In this commit, I added a new method to the TimeFormatterUtil enum to convert string to short form. Also added corresponding JUnit tests for this new functionality." />
+    <MESSAGE value="Formatted code, Main and ReadMe." />
+    <MESSAGE value="Fixed: moving readMe to main folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed: moving readMe to main folder" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/TimeFormatter$HoursFormatterTest.ic" NAME="HoursFormatterTest Coverage Results" MODIFIED="1683522478335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.rabobank.timeformatter.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/TimeFormatter$SecondsFormatterTest.ic" NAME="SecondsFormatterTest Coverage Results" MODIFIED="1683522460271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.rabobank.timeformatter.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/TimeFormatter$TimeFormatterUtilTest.ic" NAME="TimeFormatterUtilTest Coverage Results" MODIFIED="1683522440926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.rabobank.timeutils.*</FILTER>
+    </SUITE>
+  </component>
+</project>
