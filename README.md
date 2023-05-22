@@ -45,9 +45,3 @@ This code also provides functionalities to convert time string to short form aft
 Also, you can convert time string to short form with any time unit.Furthermore, TO_SECONDS and TO_MINUTES enums can be used to simply convert milliseconds to seconds or minutes, respectively. For instance, calling TO_MINUTES on 3650000ms will convert it to 60 minutes and 50 seconds.
 ## Junit Tests:
 Test folder contains all the test cases written as junit tests. 
-## Commit Details:
-5 tasks are committed in the 5 initial commits. Last commit contains code formatting, main and readMe.
-
-Commit details and messages can also be viewed below
-
-![image](https://user-images.githubusercontent.com/112806772/236834884-686a372a-bc17-4b4d-ae04-dce209b132bc.png)
